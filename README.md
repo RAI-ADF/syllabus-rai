@@ -30,7 +30,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 
 ### Workflow
 
-1. Fork the repository for the exercise/project (found under [github.com/DataStructure-ADF](https://github.com/RAI-ADF)).
+1. Fork the repository for the exercise/project (found under [github.com/RAI-ADF](https://github.com/RAI-ADF)).
 1. Clone the repository to your computer.
 1. Open the README.md files to read the assignment instructions
 1. Modify the code files to complete your solution
