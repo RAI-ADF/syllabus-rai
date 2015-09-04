@@ -4,15 +4,25 @@
 
 ## Course Description
 
-Learn best practices in Network Programming, Client-Server, Web Service and Web Application
+Learn best practices in Network Programming, Client-Server, Web Service and Web Application <br>
+slides : http://anditya.staff.telkomuniversity.ac.id/academic/rai/ <br>
 Topics include :
-* Client/Server Socket
-* Client Side Scripting
-* JavaScript, jQuery, AJAX
-* PHP and PHP Framework
-* MVC
-* Web Service
-* Mobile Programming
+* 00 – Introduction
+* 01 – Client-Server Socket
+* 02 – HTML
+* 03 – CSS
+* 04 – Basic PHP
+* 05 – JavaScript
+* 06 – AJAX
+* 07 – jQuery
+* 08 – HTML5 & CSS3
+* 09 – Advance PHP
+* 10 – Web Socket
+* 11 – MVC Architecture
+* 12 – Laravel Framework
+* 13 – Web Service
+* 14 – Mobile Programming
+
 
 ## Prerequisites
 
